@@ -167,9 +167,7 @@ def FrequencyCount(freq_dictionary, item):
 
 
 topic = str(sys.argv[1])
-
 file_topic = str(sys.argv[2])
-#"/user/akuznets/home/Documents/pers/Social_Network_Analysis/twitter crawl/#DonaldTrump.json"
 
 #List for dictionaries of tweet objects
 data_topic = []
